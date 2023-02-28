@@ -17,4 +17,8 @@ public class Demosel {
 		System.out.println("Hi");
 		
 	}
+	
+	void disp() {
+		
+	}
 }
