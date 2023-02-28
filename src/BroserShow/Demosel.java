@@ -12,4 +12,9 @@ public class Demosel {
 	void launchbrowser() {
 		ChromeDriver driver =new chromeDriver();
 	}
+	void add()
+	{
+		System.out.println("Hi");
+		
+	}
 }
